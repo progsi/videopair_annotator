@@ -1,5 +1,5 @@
-set_id,candidate_id,query_id,Classification
-1521,hLQl3WQQoQ0,xarSysw9xJs,Other
+set_id,reference_id,candidate_id,classification
+1521,hLQl3WQQoQ0,xarSysw9xJs,Match
 1035,viCAspgEqAI,hFE2SnliiV0,Cover
 1211,309wQ9P92G8,KXo54Z2Rgxg,Cover
 3735,JY8_zZTi3-M,P4SvuMCe4eo,
